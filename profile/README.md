@@ -3,4 +3,4 @@ Your New Tab page, but better. OpenNWTB is a highly extensible web app designed 
 * Built with 11ty, Netlify Serverless, and Google Firebase.
 * Auth0 for authentication.
 * Google Cloud Firestore as NoSQL database.
-* Entirely serverless. Designed for the Netlify platform.
+* Entirely serverless. Pure JavaScript. Designed for the Netlify platform.
