@@ -4,3 +4,7 @@ Your New Tab page, but better. OpenNWTB is a highly extensible web app designed 
 * Auth0 for authentication.
 * Google Cloud Firestore as NoSQL database.
 * Entirely serverless. Pure JavaScript. Designed for the Netlify platform.
+   
+---
+   
+**Open Source Launch:** [View the announcement](https://github.com/orgs/OpenNWTB/discussions/1).
